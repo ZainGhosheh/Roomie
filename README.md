@@ -1,71 +1,33 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Roomie
+
+<p align="center">
+  <img src="https://github.com/ZainGhosheh/Roomie/assets/123661181/e9cd5deb-ad86-410a-a942-811ea0186b7e" alt="Roomie Logo" width="700" height="525">
+</p>
+
+**Roomie** is a dedicated web application designed to simplify the process of finding the ideal roommate for students. Whether you're just starting college or moving between campuses, Roomie offers a tailored platform to connect you with fellow students whose living preferences and habits match your own. This focus on student lifestyles ensures that you can find a roommate who not only shares your academic environment but also aligns with your study habits and schedules.
+
+## Key Features
+
+- **User Profiles**: Create a detailed profile to share your living habits, preferences, and personality. Your profile is your first impression, making it crucial for finding compatible roommates.
+
+- **Customizable Preferences**: Set your preferences for your ideal living situation. Specify factors like location, budget, lifestyle habits, and more. Roomie uses these preferences to filter and find users who match your criteria.
+
+- **Browse & Match**: Explore profiles of potential roommates using our intuitive interface. Our smart matching system suggests the best matches based on compatibility.
+
+- **Privacy & Security**: Your privacy is our priority. Control what you share on your profile and manage who can see your information.
+
+## Ideal For
+
+- **Students**: Find roommates attending the same college or university, making it easy to coordinate living arrangements for the academic year.
+
+- **Professionals**: Connect with other working professionals who share similar daily routines and lifestyle preferences.
+
+- **Anyone Seeking Shared Living**: Whether you’re looking for someone to split rent or seeking company, Roomie helps you make connections that make sense.
+
+
+
+
+```bash
+git clone https://github.com/your-username/Roomie.git
+cd Roomie
+# follow setup instructions
